@@ -1,5 +1,5 @@
 # GCMS-Heatmap
-Basic function to create a simple heatmap with GCMS data. This is a generalized function that can be used to with any dataset to create a heatmap.2 heatmap.
+Basic function to create a simple heatmap with GCMS data. This is a generalized function that can be used to with any dataset to create a basic heatmap.2 heatmap.
 
 The input file should be a comma delimited file (.csv) with the following format (rows=samples, columns=amino acids):
 
